@@ -10,7 +10,7 @@
 • memset
 • bzero
 • memcpy
-• memmove
+• memmove 
 • strlcpy
 • strlcat
 • toupper
