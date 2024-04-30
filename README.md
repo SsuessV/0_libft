@@ -1,5 +1,5 @@
 # Circle 0_libft
-### Implement your own functions and build your own C library
+### Implement your own functions and build your first, own C library
 
 • isalpha
 • isdigit
